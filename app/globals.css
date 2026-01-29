@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* zsiday-like: simple text-first */
+html, body { height: 100%; }
