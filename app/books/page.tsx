@@ -21,8 +21,8 @@ const reviews = [
     title:
       "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
     author: "Robert T. Kiyosaki",
-    verdict: "I would reccomend this book for the ",
-    critique: "Your critique here.",
+    verdict: "I would reccomend this book for the readers who are just getting into investing. ",
+    critique: "Honestly, I only bought this book because of the hype around it. I have heared of Robert Kiyosaki and his book before, but didn't know what to expect. I was almost certain that this book will be about general investing and that it won't go into details and I have to say that I was absolutley right. Robert is selling this book as the recepie of the rich, but if I wanted to, I could summerize the whole book in 3 sentences. 1: Save your money. 2: Invest as much as you can. 3: Dare to take risks. Thats it. I just saved you 11,99$. You're welcome!",
   },
 ];
 
