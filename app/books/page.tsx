@@ -15,7 +15,7 @@ const reviews = [
     verdict:
       "Strongly recommended for anybody who is interested inequality, history and economics",
     critique:
-      "Write your critique here. What is the main idea? What’s strong/weak? Who should read it? Any key quotes/chapters?",
+      "Writing is in the process.",
   },
   {
     title:
